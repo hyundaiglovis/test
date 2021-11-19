@@ -7,8 +7,8 @@
 }
 
 body{
-	padding:	100px;
-	margin-top:	80px;
+	padding:	30px;
+	padding-top:	120px;
 	margin-bottom:	80px;
 	max-width:500px;
 	margin:0	auto;
@@ -20,6 +20,7 @@ padding:30px;
 }
 
 .div2 {
+margin-top:-17px;
     float:right;
     text-align: right;
 }
@@ -35,7 +36,7 @@ font-weight:normal;
 color:grey;
 }
 .info{
-margin-top:80px;padding:30px;
+margin-top:100px;padding:30px;
 }
 .title{font-weight: 700;
     font-size: 53px;
