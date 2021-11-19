@@ -1,5 +1,6 @@
 @import url(//fonts.googleapis.com/earlyaccess/notosanskr.css);
 *{
+	  box-sizing: border-box;
 	padding:	0;
 	margin:	0;
 	font-size:	16px;
@@ -7,12 +8,15 @@
 }
 
 body{
+
 	padding:	30px;
 	padding-top:	120px;
 	margin-bottom:	80px;
-	max-width:500px;
+max-width:600px;
 	margin:0	auto;
 }
+
+
 
 .div1 {
 padding:30px;
@@ -44,8 +48,11 @@ color:#000;
 margin-bottom:40px;
 }
 .career_info{
-margin-top:-68px;padding-left:120px;
+margin-top:-90px;padding-left:120px;
 }
 .career_info2{
-margin-top:-68px;padding-left:120px;
+margin-top:-90px;padding-left:120px;
+}
+.content p {
+	margin-bottom:20px;
 }
